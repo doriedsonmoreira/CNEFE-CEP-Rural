@@ -37,7 +37,7 @@ searchScript_CNEFE/
 
 ## Pré-requisitos
 
-- **Python 3.10+** (utiliza apenas bibliotecas nativas do Python — não é necessário instalar pacotes externos com `pip`).
+- **Python 3.10+** (utiliza apenas bibliotecas nativas do Python, não é necessário instalar pacotes externos com `pip`).
 
 ---
 
