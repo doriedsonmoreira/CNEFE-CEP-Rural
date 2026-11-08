@@ -1,4 +1,4 @@
-# Extrator de CEPs de Localidades e Zona Rural — CNEFE (Censo 2022 / IBGE)
+# Extrator de CEPs de Localidades e Zona Rural - CNEFE (Censo 2022 / IBGE)
 
 Script em Python para extrair, filtrar e consolidar CEPs de **localidades, distritos fora da sede e zonas rurais** a partir dos dados brutos do **CNEFE (Cadastro Nacional de Endereços para Fins Estatísticos — Censo 2022)** do IBGE, cruzando os códigos territoriais com a **DTB 2025 (Divisão Territorial Brasileira)**.
 
