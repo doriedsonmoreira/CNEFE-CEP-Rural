@@ -1,0 +1,56 @@
+﻿
+Novos Distritos Cadastrados,,,,,,,,,
+UF,Nome_UF,Código Município Completo,Nome_Município,Distrito,Código de Distrito Completo,Nome_Distrito,,,
+11,Rondônia,1100288,Rolim de Moura,11,110028811,Nova Estrela,,,
+15,Pará,1500958,Aurora do Pará,06,150095806,Santana do Capim,,,
+26,Pernambuco,2609303,Mirandiba,11,260930311,Cachoeirinha,,,
+29,Bahia,2914703,Itaberaba,06,291470306,Vila São Vicente,,,
+31,Minas Gerais,3112653,Capitão Andrade,06,311265306,Bom Jesus da Vista Alegre,,,
+31,Minas Gerais,3113800,Carmésia,06,311380006,Goiabas,,,
+31,Minas Gerais,3155603,Rio Pardo de Minas,31,315560331,Nova Aurora de Minas,,,
+31,Minas Gerais,3159001,Santana do Riacho,11,315900111,Lapinha da Serra,,,
+31,Minas Gerais,3159506,Santa Rita do Itueto,11,315950611,Aldeamento,,,
+31,Minas Gerais,3159506,Santa Rita do Itueto,12,315950612,Santaninha,,,
+41,Paraná,4114104,Mandaguaçu,06,411410406,Pulinópolis,,,
+43,Rio Grande do Sul,4322400,Uruguaiana,36,432240036,Sanchuri,,,
+
+Distritos Extintos,,,,,,,,,
+UF,Nome_UF,Código Município Completo,Nome_Município,Distrito,Código de Distrito Completo,Nome_Distrito,,,
+43,Rio Grande do Sul,4319901,Sapiranga,25,431990125,Picada São Jacob,,,
+
+Subdistritos Novos,,,,,,,,,
+UF,Nome_UF,Código Município Completo,Nome_Município,Distrito,Código de Distrito Completo,Nome_Distrito,Subdistrito,Código de Subdistrito Completo,Nome_Subdistrito
+31,Minas Gerais,3106200,Belo Horizonte,05,310620005,Belo Horizonte,70,31062000570,Região Administrativa Hipercentro
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
